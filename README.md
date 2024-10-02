@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center" width="100px">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/4006792/214640818-fd4de9e6-bdee-47f0-ae66-e69ee9ec84bb.png">
@@ -179,3 +180,6 @@ Disclaimer: Everything you see here is open and free to use as long as you compl
 #### Crafted with ❤️ by [Saleor Commerce](https://saleor.io)
 
 hello@saleor.io
+=======
+# marketplace
+>>>>>>> 09afade8d3114e0473d5aedc765feb9c3a4a53bf
