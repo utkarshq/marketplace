@@ -1,0 +1,1 @@
+from .account.mutations.vendor_application import VendorApplicationMutations
